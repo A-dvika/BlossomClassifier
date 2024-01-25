@@ -1,6 +1,5 @@
-# AI Programming with Python Project
-
-Certainly! Below is a GitHub markdown text explaining the project. You can use this in your project's README.md file on GitHub.
+## AI Programming with Python -Udacity
+#BlossomClassifier-Flower Image Classification Project
 
 ```markdown
 # Flower Image Classification Project
